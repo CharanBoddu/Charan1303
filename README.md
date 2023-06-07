@@ -1,5 +1,5 @@
+![coding (1)](https://github.com/Charan1303/Charan1303/assets/53311574/f68fb581-0d37-4aab-9263-a807a6bab052)
 
-![coding](https://github.com/Charan1303/Charan1303/assets/53311574/7e08f5a9-a706-4196-8b5e-419678e801e8)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Charan Boddu.</h1>
 <h3 align="center">A passionate student developer from India, currently studying in Canada.</h3>
