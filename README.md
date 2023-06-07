@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+
+![coding](https://github.com/Charan1303/Charan1303/assets/53311574/7e08f5a9-a706-4196-8b5e-419678e801e8)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Charan Boddu.</h1>
 <h3 align="center">A passionate student developer from India, currently studying in Canada.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
