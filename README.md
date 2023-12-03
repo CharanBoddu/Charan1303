@@ -1,4 +1,4 @@
-![coding (1)](https://github.com/Charan1303/Charan1303/assets/53311574/f68fb581-0d37-4aab-9263-a807a6bab052)
+![coding (1)](https://github.com/CharanBoddu/Charan1303/assets/53311574/f68fb581-0d37-4aab-9263-a807a6bab052)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Charan Boddu.</h1>
@@ -28,8 +28,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charan1303&show_icons=true&locale=en&layout=compact" alt="charan1303" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharanBoddu&show_icons=true&locale=en&layout=compact" alt="CharanBoddu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan1303&show_icons=true&locale=en" alt="charan1303" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharanBoddu&show_icons=true&locale=en" alt="CharanBoddu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charan1303&" alt="charan1303" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharanBoddu&" alt="CharanBoddu" /></p>
